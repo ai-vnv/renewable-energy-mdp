@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "If you use this software or the models it implements, please cite the paper below."
+title: "renewable-energy-mdp: socially-equitable renewable energy budget allocation MDPs"
+abstract: >-
+  Python reference implementation of two Markov Decision Process formulations for
+  socially-equitable renewable energy budget allocation — a U.S. single-planner
+  build model and a West Java (Indonesia) incentive/quota model — evaluated with a
+  single problem-agnostic solver interface.
+type: software
+license: MIT
+repository-code: "https://github.com/ai-vnv/renewable-energy-mdp"
+authors:
+  - family-names: Kinnarkar
+    given-names: Riya
+  - family-names: Arief
+    given-names: Mansur M.
+  - family-names: Akhra
+    given-names: Yan Pratama
+  - family-names: Arla
+    given-names: Dino
+keywords:
+  - Markov decision process
+  - renewable energy
+  - energy equity
+  - energy access
+  - Monte Carlo tree search
+  - sequential decision making
+preferred-citation:
+  type: article
+  title: "Comparing Socially-Equitable Renewable Energy Budget Allocation MDP Policies in Mature and Emerging Economies"
+  authors:
+    - family-names: Kinnarkar
+      given-names: Riya
+    - family-names: Arief
+      given-names: Mansur M.
+    - family-names: Akhra
+      given-names: Yan Pratama
+    - family-names: Arla
+      given-names: Dino
+  year: 2026
+  month: 7
+  journal: "arXiv preprint arXiv:2607.10201"
+  identifiers:
+    - type: other
+      value: "arXiv:2607.10201"
+  url: "https://arxiv.org/abs/2607.10201"

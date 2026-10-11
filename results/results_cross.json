@@ -1,0 +1,86 @@
+{
+  "greedy": {
+    "equity->US": {
+      "total_reward_mean": 3921.3785790512334,
+      "total_reward_std": 67.51533695627602,
+      "priority_pop_mean": 531504.0510210122,
+      "priority_pop_std": 447780.1759413071,
+      "re_pct_mean": 67.48160143949617,
+      "re_pct_std": 0.5767213726828041,
+      "leverage_mean": 0.0,
+      "leverage_std": 0.0
+    },
+    "equity->ID": {
+      "total_reward_mean": 3420.534526170098,
+      "total_reward_std": 54.71222518965653,
+      "priority_pop_mean": 0.0,
+      "priority_pop_std": 0.0,
+      "re_pct_mean": 49.667842492441196,
+      "re_pct_std": 1.7671678187818454,
+      "leverage_mean": 425.06999999999994,
+      "leverage_std": 40.48458327263133
+    },
+    "market->US": {
+      "total_reward_mean": 3344.0768429344903,
+      "total_reward_std": 58.64437855375329,
+      "priority_pop_mean": 473764.3534101601,
+      "priority_pop_std": 423824.38245942525,
+      "re_pct_mean": 23.953488372093027,
+      "re_pct_std": 3.613448226613569e-15,
+      "leverage_mean": 0.0,
+      "leverage_std": 0.0
+    },
+    "market->ID": {
+      "total_reward_mean": 1411.4116558408093,
+      "total_reward_std": 39.61910970716059,
+      "priority_pop_mean": 6261592.672825643,
+      "priority_pop_std": 101045.55173299403,
+      "re_pct_mean": 34.74623535973229,
+      "re_pct_std": 0.0,
+      "leverage_mean": 67.79999999999998,
+      "leverage_std": 1.4453792906454277e-14
+    }
+  },
+  "mcts": {
+    "equity->US": {
+      "total_reward_mean": 3959.8018660157027,
+      "total_reward_std": 89.27674754928675,
+      "priority_pop_mean": 1621761.8124864015,
+      "priority_pop_std": 317338.67942188296,
+      "re_pct_mean": 50.47753591417016,
+      "re_pct_std": 4.125060622638274,
+      "leverage_mean": 0.0,
+      "leverage_std": 0.0
+    },
+    "equity->ID": {
+      "total_reward_mean": 3405.6676301658654,
+      "total_reward_std": 60.45904556084155,
+      "priority_pop_mean": 217807.39783161454,
+      "priority_pop_std": 389830.31649297004,
+      "re_pct_mean": 54.12743966992578,
+      "re_pct_std": 2.1110429661598413,
+      "leverage_mean": 467.8264,
+      "leverage_std": 41.82765491509835
+    },
+    "market->US": {
+      "total_reward_mean": 3993.8529570043484,
+      "total_reward_std": 104.30452055951805,
+      "priority_pop_mean": 1344892.1897929178,
+      "priority_pop_std": 510598.87762781326,
+      "re_pct_mean": 44.47082918957919,
+      "re_pct_std": 2.714197301261454,
+      "leverage_mean": 0.0,
+      "leverage_std": 0.0
+    },
+    "market->ID": {
+      "total_reward_mean": 3531.141114116453,
+      "total_reward_std": 48.541617155642136,
+      "priority_pop_mean": 26973.17875066109,
+      "priority_pop_std": 147738.18449356096,
+      "re_pct_mean": 55.812320765096196,
+      "re_pct_std": 0.8723152872946011,
+      "leverage_mean": 477.96000000000004,
+      "leverage_std": 24.983727117659097
+    }
+  }
+}
